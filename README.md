@@ -1,1 +1,1 @@
-# NumFOCUS 2025 Summit: Awkward Array lightening talk
+# NumFOCUS 2025 Summit: Awkward Array Lightning Talk 
